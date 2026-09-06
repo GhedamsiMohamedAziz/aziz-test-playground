@@ -1,0 +1,1 @@
+Recommandation de Robin : livrer l'export côté client (Option A) dès maintenant, en figeant le format de sortie (JSONL + manifest) comme contrat public pour pouvoir migrer sans casser les utilisateurs vers un endpoint serveur en flux (Option B) ou un job d'export asynchrone (Option C) si le volume ou la pagination l'exigent.

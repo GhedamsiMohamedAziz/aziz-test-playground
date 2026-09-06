@@ -1,0 +1,1 @@
+Recommandation de Robin : livrer d'abord un export CLI client-side en streaming (option A, sans changement serveur), puis basculer vers un job d'export serveur (option B) seulement si le volume, la cohérence ou une demande UI web l'exigent — car un export imparfait mais disponible dès maintenant supprime le risque de captivité, avec un coût de retour arrière quasi nul.
